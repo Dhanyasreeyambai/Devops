@@ -1,2 +1,6 @@
 this is test4 document
+<<<<<<< HEAD
 i want to do conflict i am merging the file after commiting and before pushing i should merge the  file with main
+this is same document getting the error now
+react to this conflict lets see
+>>>>>>> child2
