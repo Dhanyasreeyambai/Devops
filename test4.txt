@@ -1,1 +1,2 @@
 this is test4 document
+i want to do conflict i am merging the file after commiting and before pushing i should merge the  file with main

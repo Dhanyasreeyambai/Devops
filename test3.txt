@@ -1,1 +1,5 @@
-this is test3 documnet 
+this is test3 documnet
+i am editing thisin child1
+next i want to merger this with main branch
+i know i am going to get conflict
+lets see how i am gonna deal this
